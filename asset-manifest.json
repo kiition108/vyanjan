@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vyanjan/static/css/main.e6c13ad2.css",
+    "main.js": "/vyanjan/static/js/main.8646931d.js",
+    "static/js/787.5480f576.chunk.js": "/vyanjan/static/js/787.5480f576.chunk.js",
+    "index.html": "/vyanjan/index.html",
+    "main.e6c13ad2.css.map": "/vyanjan/static/css/main.e6c13ad2.css.map",
+    "main.8646931d.js.map": "/vyanjan/static/js/main.8646931d.js.map",
+    "787.5480f576.chunk.js.map": "/vyanjan/static/js/787.5480f576.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8646931d.js"
+  ]
+}
